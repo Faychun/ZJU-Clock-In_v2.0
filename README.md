@@ -2,6 +2,10 @@
 
 ## What's New?
 
+
+## Sep 30th
+更新了main.yml，解决了Github Action Workflow skip的问题
+
 ### Jul 8th
 
 支持自动填写表单新增的实习选项。
